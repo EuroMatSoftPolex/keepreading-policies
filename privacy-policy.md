@@ -1,6 +1,6 @@
 # Privacy Policy for keepreading
 
-Last updated: 2025-11-25
+Last updated: 2025-11-14
 
 ## Introduction
 _keepreading_ ("we", "our", "us") respects your privacy. This policy explains how we handle your information.
@@ -14,4 +14,8 @@ We request camera access to allow you to photograph pages of a document (i.e. bo
 - Images are not stored after audiobook creation is discarded
 - You can delete your audiobooks at any time
 
-  
+## Private Data Removal
+
+If you want permanently delete your account:
+1. Navigate to "You" screen (icon with user's avatar available from the bottom menu bar),
+2. Use "Delete my account" option, and confirm deletion.

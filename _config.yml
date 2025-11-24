@@ -3,7 +3,7 @@ markdown: GFM
 exclude: ["**/README.md"]
 title: KeepReading
 author:
-  name: 
+  name: ""
   email: support@euromatsoftpolex.com
 description: >
   <p>Turn your books into audiobooks. KeepReading - even when you can't read.</p>

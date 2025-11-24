@@ -1,6 +1,8 @@
+---
 layout: page
 title: "KeepReading - Terms of Service"
 permalink: /keepreading-terms-of-service/
+---
 
 # _**`KeepReading`**_ - Terms of Service
 

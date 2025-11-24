@@ -1,3 +1,7 @@
+layout: page
+title: "KeepReading - Terms of Service"
+permalink: /keepreading-terms-of-service
+
 # _**`KeepReading`**_ - Terms of Service
 
 **Last Updated:** 2025-11-24

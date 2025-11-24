@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Privacy Policy for keepreading
 
 Last updated: 2025-11-14

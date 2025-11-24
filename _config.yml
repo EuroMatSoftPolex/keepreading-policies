@@ -1,12 +1,13 @@
 theme: minima
 markdown: GFM
+exclude: ["**/README.md"]
 title: KeepReading
 description: >
-  _Turn your books into audiobooks. **`KeepReading`** - even when you can't read_
+  Turn your books into audiobooks. KeepReading - even when you can't read.
 
-  You bought a great book, but there's no audiobook version. Or maybe you already own dozens of books you want to read - but between work, cooking, commuting, workouts, and everything else you're getting done, sitting down with a book just doesn't fit the flow. Turn any physical book into audiobook and _**`KeepReading`**_!
+  You bought a great book, but there's no audiobook version. Or maybe you already own dozens of books you want to read - but between work, cooking, commuting, workouts, and everything else you're getting done, sitting down with a book just doesn't fit the flow. Turn any physical book into audiobook and KeepReading!
 
-  Photograph the pages of any book with your phone, and _**`KeepReading`**_ creates a fully navigable audiobook complete with auto-detected chapters and progress tracking. Listen while cooking, commuting, working out, or doing chores. Your books, finally integrated into your active life.
+  Photograph the pages of any book with your phone, and KeepReading creates a fully navigable audiobook complete with auto-detected chapters and progress tracking. Listen while cooking, commuting, working out, or doing chores. Your books, finally integrated into your active life.
 
 #   Specific pages for site navigation.
 #     If you wish to link only specific pages in the site-navigation, use this
